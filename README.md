@@ -18,7 +18,8 @@ A terminal-based Tic-Tac-Toe game where you battle against an AI opponent! Built
 ## 🚀 How to Run  
 ```bash
 # Compile
-gcc tictactoe.c -o tictactoe
+gcc tic_tac_toe.c -o tictactoe
 
 # Play!
-./tictactoe
+./tictactoe (MAC/LINUX)
+.\tictactoe.exe (WINDOWS)
