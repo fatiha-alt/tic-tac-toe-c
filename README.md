@@ -10,7 +10,10 @@ A terminal-based Tic-Tac-Toe game where you battle against an AI opponent! Built
 - 🧠 **Randomized AI moves** (with `rand()`)  
 - ✅ **Input validation**  
 - 🏆 **Win/tie detection**  
-- 🔄 **Play again?** prompt  
+- 🔄 **Play again?** prompt
+
+## 🐞 Report Bugs  
+[Open an issue](https://github.com/fatiha-alt/tic-tac-toe-c/issues/new?template=bug_report.md)
 
 ## 🚀 How to Run  
 ```bash
